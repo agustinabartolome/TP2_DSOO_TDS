@@ -1,0 +1,13 @@
+C:\Users\agust\source\repos\DSOO\TP_2\bin\Debug\netcoreapp3.1\TP_2.exe
+C:\Users\agust\source\repos\DSOO\TP_2\bin\Debug\netcoreapp3.1\TP_2.deps.json
+C:\Users\agust\source\repos\DSOO\TP_2\bin\Debug\netcoreapp3.1\TP_2.runtimeconfig.json
+C:\Users\agust\source\repos\DSOO\TP_2\bin\Debug\netcoreapp3.1\TP_2.runtimeconfig.dev.json
+C:\Users\agust\source\repos\DSOO\TP_2\bin\Debug\netcoreapp3.1\TP_2.dll
+C:\Users\agust\source\repos\DSOO\TP_2\bin\Debug\netcoreapp3.1\TP_2.pdb
+C:\Users\agust\source\repos\DSOO\TP_2\obj\Debug\netcoreapp3.1\TP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\source\repos\DSOO\TP_2\obj\Debug\netcoreapp3.1\TP_2.AssemblyInfoInputs.cache
+C:\Users\agust\source\repos\DSOO\TP_2\obj\Debug\netcoreapp3.1\TP_2.AssemblyInfo.cs
+C:\Users\agust\source\repos\DSOO\TP_2\obj\Debug\netcoreapp3.1\TP_2.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\DSOO\TP_2\obj\Debug\netcoreapp3.1\TP_2.dll
+C:\Users\agust\source\repos\DSOO\TP_2\obj\Debug\netcoreapp3.1\TP_2.pdb
+C:\Users\agust\source\repos\DSOO\TP_2\obj\Debug\netcoreapp3.1\TP_2.genruntimeconfig.cache
